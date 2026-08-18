@@ -1,36 +1,55 @@
-# hr-employee-attrition-analysis
-Analysis of employee attrition patterns using Excel and data visualization.
-HR Employee Attrition Analysis
- **Overview**
+# HR Employee Attrition Analysis
 
-This project analyzes employee data to identify factors associated with employee attrition and understand patterns in employee turnover.
+## 📌 Project Overview
 
-The analysis focuses on factors such as age, department, overtime, job satisfaction and other employee characteristics.
+This project analyzes employee data to identify patterns and factors associated with employee attrition.
 
-**Tools Used
-Microsoft Excel
-Pivot Tables
-Data Cleaning
-Data Visualization
-Statistical Analysis
+The analysis focuses on factors such as department, age, overtime, and job satisfaction to understand which employee groups experience higher attrition rates.
 
-**The analysis aims to answer questions such as:
-**
-Which department has the highest attrition rate?
-Does overtime affect employee attrition?
-Does age influence attrition?
-How does job satisfaction relate to attrition?
-Which employee groups have the highest attrition rates?
-Key Findings
+## 🎯 Objectives
 
-Some of the main findings from the analysis were:
+The main objectives of this analysis are to:
 
-Sales had the highest attrition rate at 20.63%.
-Employees working overtime had an attrition rate of 37.5%, compared with 13.84% for employees who did not work overtime.
-Employees aged 18–25 had the highest attrition rate at approximately 43.9%.
-Employees with lower job satisfaction showed higher levels of attrition, with the highest observed rate being approximately 26.74%.
-** Insights
-**
-The analysis suggests that overtime, job satisfaction, age and department may be important factors associated with employee turnover.
+- Identify departments with the highest attrition rates
+- Investigate the relationship between overtime and employee attrition
+- Analyze attrition across different age groups
+- Examine the relationship between job satisfaction and attrition
+- Identify key factors that may contribute to employee turnover
 
-The particularly high attrition among younger employees and employees working overtime could indicate areas where organizations may need to investigate workload, employee engagement and retention strategies further.
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+
+## 📊 Key Findings
+
+Some of the key findings from the analysis include:
+
+- The **Sales department** had the highest attrition rate at **20.63%**.
+- Employees who worked **overtime** had an attrition rate of **37.5%**, compared with **13.84%** among employees who did not work overtime.
+- Employees aged **18–25** had the highest attrition rate at approximately **43.9%**.
+- The highest observed attrition rate by job satisfaction level was approximately **26.74%**.
+
+## 💡 Key Insights
+
+The analysis suggests that overtime, age, department, and job satisfaction are important factors associated with employee attrition.
+
+The particularly high attrition among younger employees and employees working overtime may indicate potential areas for further investigation into workload, employee engagement, and employee retention.
+
+## 📈 Analysis
+
+The analysis was conducted using Excel Pivot Tables and visualizations to compare employee attrition across different categories.
+
+## 📁 Project Files
+
+- `HR_Employee_Attrition_Analysis.xlsx` — Excel analysis and calculations
+- `dashboard.png` — Project dashboard/visualizations
+
+## 👩🏽‍💻 Author
+
+**Lucy Waithera**
+
+Statistics Student | Aspiring Data Analyst
